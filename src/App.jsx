@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import './App.css';
-import ALLCards from './components/ALlcards';
+import ALLCards from './components/ALLcards';
 import { data } from './utils/data';
 console.log(data);
 function App() {
